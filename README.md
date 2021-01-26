@@ -1,3 +1,7 @@
+Note: this repo is forked from [whiteblackitty/SQLCipher-Password-Cracker-OpenCL](https://github.com/whiteblackitty/SQLCipher-Password-Cracker-OpenCL) and I made below updates:
+1. Fixed an error I encountered in Python 3.7: "TypeError: only integer scalar arrays can be converted to a scalar index"
+2. Updated the 4 bytes verification method. This is specific to WeChat V7.0+.
+
 Description
 ===========
 
